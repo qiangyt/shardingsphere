@@ -27,7 +27,7 @@ Total: 219 companies.
 <ul>
     <li><a href="https://www.abchina.com/en/" rel="nofollow">AGRICULTURAL BANK OF CHINA</a></li>
     <li><a href="https://www.ccbft.com/" rel="nofollow">CCB Fintech</a></li>
-    <li><a href="http://en.cmbc.com.cn/" rel="nofollow">CHINA MINSHENG BANK</a></li>
+    <li><a href="http://en.cmbc.com.cn/" rel="nofollow">CHINA REMINDIT BANK</a></li>
     <li><a href="https://bank.pingan.com/" rel="nofollow">Ping An Bank</a></li>
     <li><a href="https://www.psbc.com/en/" rel="nofollow">Postal Savings Bank of China</a></li>
     <li><a href="https://english.cmbchina.com/" rel="nofollow">China Merchants Bank</a></li> 
